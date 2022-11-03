@@ -1,0 +1,329 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Api\\MaritzaPizza.Api.csproj": {}
+  },
+  "projects": {
+    "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Api\\MaritzaPizza.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Api\\MaritzaPizza.Api.csproj",
+        "projectName": "MaritzaPizza.Api",
+        "projectPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Api\\MaritzaPizza.Api.csproj",
+        "packagesPath": "C:\\Users\\meric_\\.nuget\\packages\\",
+        "outputPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\meric_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Application\\MaritzaPizza.Application.csproj": {
+                "projectPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Application\\MaritzaPizza.Application.csproj"
+              },
+              "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Contracts\\MaritzaPizza.Contracts.csproj": {
+                "projectPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Contracts\\MaritzaPizza.Contracts.csproj"
+              },
+              "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Infrastructure\\MaritzaPizza.Infrastructure.csproj": {
+                "projectPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Infrastructure\\MaritzaPizza.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Application\\MaritzaPizza.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Application\\MaritzaPizza.Application.csproj",
+        "projectName": "MaritzaPizza.Application",
+        "projectPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Application\\MaritzaPizza.Application.csproj",
+        "packagesPath": "C:\\Users\\meric_\\.nuget\\packages\\",
+        "outputPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\meric_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Domain\\MaritzaPizza.Domain.csproj": {
+                "projectPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Domain\\MaritzaPizza.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Contracts\\MaritzaPizza.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Contracts\\MaritzaPizza.Contracts.csproj",
+        "projectName": "MaritzaPizza.Contracts",
+        "projectPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Contracts\\MaritzaPizza.Contracts.csproj",
+        "packagesPath": "C:\\Users\\meric_\\.nuget\\packages\\",
+        "outputPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\meric_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Domain\\MaritzaPizza.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Domain\\MaritzaPizza.Domain.csproj",
+        "projectName": "MaritzaPizza.Domain",
+        "projectPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Domain\\MaritzaPizza.Domain.csproj",
+        "packagesPath": "C:\\Users\\meric_\\.nuget\\packages\\",
+        "outputPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\meric_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Infrastructure\\MaritzaPizza.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Infrastructure\\MaritzaPizza.Infrastructure.csproj",
+        "projectName": "MaritzaPizza.Infrastructure",
+        "projectPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Infrastructure\\MaritzaPizza.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\meric_\\.nuget\\packages\\",
+        "outputPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\meric_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Application\\MaritzaPizza.Application.csproj": {
+                "projectPath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Application\\MaritzaPizza.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

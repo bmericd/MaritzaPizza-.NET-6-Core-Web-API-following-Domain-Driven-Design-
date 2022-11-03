@@ -1,0 +1,12 @@
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Contracts\bin\Debug\net6.0\MaritzaPizza.Contracts.deps.json
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Contracts\bin\Debug\net6.0\MaritzaPizza.Contracts.dll
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Contracts\bin\Debug\net6.0\MaritzaPizza.Contracts.pdb
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Contracts\obj\Debug\net6.0\MaritzaPizza.Contracts.csproj.AssemblyReference.cache
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Contracts\obj\Debug\net6.0\MaritzaPizza.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Contracts\obj\Debug\net6.0\MaritzaPizza.Contracts.AssemblyInfoInputs.cache
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Contracts\obj\Debug\net6.0\MaritzaPizza.Contracts.AssemblyInfo.cs
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Contracts\obj\Debug\net6.0\MaritzaPizza.Contracts.csproj.CoreCompileInputs.cache
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Contracts\obj\Debug\net6.0\MaritzaPizza.Contracts.dll
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Contracts\obj\Debug\net6.0\refint\MaritzaPizza.Contracts.dll
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Contracts\obj\Debug\net6.0\MaritzaPizza.Contracts.pdb
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Contracts\obj\Debug\net6.0\ref\MaritzaPizza.Contracts.dll

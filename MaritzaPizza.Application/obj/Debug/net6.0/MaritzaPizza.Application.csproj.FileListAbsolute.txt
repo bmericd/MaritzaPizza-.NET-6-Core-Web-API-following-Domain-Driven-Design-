@@ -1,0 +1,15 @@
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\bin\Debug\net6.0\MaritzaPizza.Application.deps.json
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\bin\Debug\net6.0\MaritzaPizza.Application.dll
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\bin\Debug\net6.0\MaritzaPizza.Application.pdb
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\obj\Debug\net6.0\MaritzaPizza.Application.csproj.AssemblyReference.cache
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\obj\Debug\net6.0\MaritzaPizza.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\obj\Debug\net6.0\MaritzaPizza.Application.AssemblyInfoInputs.cache
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\obj\Debug\net6.0\MaritzaPizza.Application.AssemblyInfo.cs
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\obj\Debug\net6.0\MaritzaPizza.Application.csproj.CoreCompileInputs.cache
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\obj\Debug\net6.0\MaritzaPizza.Application.dll
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\obj\Debug\net6.0\refint\MaritzaPizza.Application.dll
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\obj\Debug\net6.0\MaritzaPizza.Application.pdb
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\obj\Debug\net6.0\ref\MaritzaPizza.Application.dll
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\bin\Debug\net6.0\MaritzaPizza.Domain.dll
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\bin\Debug\net6.0\MaritzaPizza.Domain.pdb
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Application\obj\Debug\net6.0\MaritzaPizza.Application.csproj.CopyComplete

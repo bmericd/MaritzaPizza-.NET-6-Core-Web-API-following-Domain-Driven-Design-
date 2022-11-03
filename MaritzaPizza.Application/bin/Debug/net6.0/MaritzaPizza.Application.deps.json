@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MaritzaPizza.Application/1.0.0": {
+        "dependencies": {
+          "MaritzaPizza.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MaritzaPizza.Application.dll": {}
+        }
+      },
+      "MaritzaPizza.Domain/1.0.0": {
+        "runtime": {
+          "MaritzaPizza.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaritzaPizza.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MaritzaPizza.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

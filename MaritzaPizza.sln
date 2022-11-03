@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaritzaPizza.Api", "MaritzaPizza.Api\MaritzaPizza.Api.csproj", "{E06D89A0-0156-4FD2-8D51-9FD443CF2D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaritzaPizza.Application", "MaritzaPizza.Application\MaritzaPizza.Application.csproj", "{7326952A-B93A-4A1D-BF5A-D8D58B4ECD69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaritzaPizza.Contracts", "MaritzaPizza.Contracts\MaritzaPizza.Contracts.csproj", "{8E138198-4B7F-48C4-999F-C9F3FCD00994}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaritzaPizza.Domain", "MaritzaPizza.Domain\MaritzaPizza.Domain.csproj", "{CB1F9A68-DB61-4A04-9F79-40AEBBFF270D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaritzaPizza.Infrastructure", "MaritzaPizza.Infrastructure\MaritzaPizza.Infrastructure.csproj", "{AC8EDE5E-BCFE-4F4B-9143-2F6A3059EE9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E06D89A0-0156-4FD2-8D51-9FD443CF2D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06D89A0-0156-4FD2-8D51-9FD443CF2D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06D89A0-0156-4FD2-8D51-9FD443CF2D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06D89A0-0156-4FD2-8D51-9FD443CF2D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7326952A-B93A-4A1D-BF5A-D8D58B4ECD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7326952A-B93A-4A1D-BF5A-D8D58B4ECD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7326952A-B93A-4A1D-BF5A-D8D58B4ECD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7326952A-B93A-4A1D-BF5A-D8D58B4ECD69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E138198-4B7F-48C4-999F-C9F3FCD00994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E138198-4B7F-48C4-999F-C9F3FCD00994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E138198-4B7F-48C4-999F-C9F3FCD00994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E138198-4B7F-48C4-999F-C9F3FCD00994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB1F9A68-DB61-4A04-9F79-40AEBBFF270D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB1F9A68-DB61-4A04-9F79-40AEBBFF270D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB1F9A68-DB61-4A04-9F79-40AEBBFF270D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB1F9A68-DB61-4A04-9F79-40AEBBFF270D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8EDE5E-BCFE-4F4B-9143-2F6A3059EE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8EDE5E-BCFE-4F4B-9143-2F6A3059EE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8EDE5E-BCFE-4F4B-9143-2F6A3059EE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8EDE5E-BCFE-4F4B-9143-2F6A3059EE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

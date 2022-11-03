@@ -1,0 +1,12 @@
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Domain\bin\Debug\net6.0\MaritzaPizza.Domain.deps.json
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Domain\bin\Debug\net6.0\MaritzaPizza.Domain.dll
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Domain\bin\Debug\net6.0\MaritzaPizza.Domain.pdb
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Domain\obj\Debug\net6.0\MaritzaPizza.Domain.csproj.AssemblyReference.cache
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Domain\obj\Debug\net6.0\MaritzaPizza.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Domain\obj\Debug\net6.0\MaritzaPizza.Domain.AssemblyInfoInputs.cache
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Domain\obj\Debug\net6.0\MaritzaPizza.Domain.AssemblyInfo.cs
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Domain\obj\Debug\net6.0\MaritzaPizza.Domain.csproj.CoreCompileInputs.cache
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Domain\obj\Debug\net6.0\MaritzaPizza.Domain.dll
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Domain\obj\Debug\net6.0\refint\MaritzaPizza.Domain.dll
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Domain\obj\Debug\net6.0\MaritzaPizza.Domain.pdb
+E:\ProgrammingExercises\Courses\NET 6 Core\REST API with Clean Architecture and DDD\MaritzaPizza\MaritzaPizza.Domain\obj\Debug\net6.0\ref\MaritzaPizza.Domain.dll

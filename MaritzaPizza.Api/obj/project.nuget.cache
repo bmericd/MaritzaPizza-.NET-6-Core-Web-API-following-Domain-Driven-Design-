@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "s3stMxdODmPKZe3KtE5CItiDUBE8msoXIhFpRJ/9p576x5qR++iCkY9k2yuT8ijGBEBsL5AYcXM4vtb0Vqok5Q==",
+  "dgSpecHash": "kcqQE3HVVrUS0GSLk7LxEO9SxH8ALCxKePowaSCeTnm7J95nb80czooByEjw/jLQNW2RkbufvOWvCM3zZXEOOg==",
   "success": true,
   "projectFilePath": "E:\\ProgrammingExercises\\Courses\\NET 6 Core\\REST API with Clean Architecture and DDD\\MaritzaPizza\\MaritzaPizza.Api\\MaritzaPizza.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\meric_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
